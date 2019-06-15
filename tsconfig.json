@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "es3",
+        "module": "commonjs",
+        "outDir": "dist",
+        "removeComments": true,
+        "skipLibCheck":true,
+        "strict": true,
+        "strictNullChecks": true,
+        "noImplicitThis": true,
+        "inlineSourceMap": true,
+        "moduleResolution": "node"
+
+    },
+    "include": [
+        "src"
+    ],
+    "exclude": [
+        "node_mudules"
+    ]
+}
